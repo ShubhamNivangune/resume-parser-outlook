@@ -1,0 +1,7 @@
+1] python to exe -
+ - open window shell
+ - python -m PyInstaller script.py
+
+2] How to run exe
+- just click exe
+
